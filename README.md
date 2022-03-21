@@ -30,7 +30,7 @@ By the end of this tutorial, participants should be able to
      - The data has been geocoded which is the process in which text (e.g., street addresses) are converted into geographic coordinates (e.g., longitude and latitude).
      - You will download the data [here](https://github.com/spatialscientist/How-to-create-a-map-for-print-and-web-using-QGIS/blob/main/AfghanWarDiary_EnemiesDetained.csv) (or Wikileaks link below).
      - Disclaimer: The Afghan War Diaries data was taken directly from “[Wikileaks mirror & archives](http://wikileaks.wikimee.org/download/afg-war-diary/)”.
-  - OpenStreetMap data
+  - OpenStreetMap data 
      - [OpenStreetMap](https://www.openstreetmap.org/) (OSM) is a free editable map of world created by people like you. It is free to use under an [open license](https://www.openstreetmap.org/copyright). 
      - As a demonstration of how to extract data from this resource, this tutorial will show how to extract the [country boundary of Afghanistan](https://www.openstreetmap.org/relation/303427#map=6/33.257/67.379) in QGIS. 
 
