@@ -28,7 +28,7 @@ By the end of this tutorial, participants should be able to
   - Afghanistan War Diaries data
      - [Afghan War Diaries](https://wikileaks.org/afg/), a released document by Wikileaks in 2010, is “an extraordinary compendium of over 91,000 reports covering the war in Afghanistan from 2004 to 2010. The reports, while written by soldiers and intelligence officers, and mainly describing lethal military actions involving the United States military, also include intelligence information, reports of meetings with political figures, and related details.” 
      - The data has been geocoded which is the process in which text (e.g., street addresses) are converted into geographic coordinates (e.g., longitude and latitude).
-     - You will download the data here (you may need to login using you University of Warwick account): <https://github.com/spatialscientist/How-to-create-a-map-for-print-and-web-using-QGIS/blob/main/AfghanWarDiary_EnemiesDetained.csv> 
+     - You will download the data [here](https://github.com/spatialscientist/How-to-create-a-map-for-print-and-web-using-QGIS/blob/main/AfghanWarDiary_EnemiesDetained.csv) (or Wikileaks link below).
      - Disclaimer: The Afghan War Diaries data was taken directly from “[Wikileaks mirror & archives](http://wikileaks.wikimee.org/download/afg-war-diary/)”.
   - OpenStreetMap data
      - [OpenStreetMap](https://www.openstreetmap.org/) (OSM) is a free editable map of world created by people like you. It is free to use under an [open license](https://www.openstreetmap.org/copyright). 
